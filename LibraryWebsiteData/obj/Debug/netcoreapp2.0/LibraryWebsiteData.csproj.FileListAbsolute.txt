@@ -1,0 +1,11 @@
+C:\Users\Josh\source\LibraryWebsiteData\bin\Debug\netcoreapp2.0\LibraryWebsiteData.deps.json
+C:\Users\Josh\source\LibraryWebsiteData\bin\Debug\netcoreapp2.0\LibraryWebsiteData.dll
+C:\Users\Josh\source\LibraryWebsiteData\obj\Debug\netcoreapp2.0\LibraryWebsiteData.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\LibraryWebsiteData\obj\Debug\netcoreapp2.0\LibraryWebsiteData.AssemblyInfoInputs.cache
+C:\Users\Josh\source\LibraryWebsiteData\obj\Debug\netcoreapp2.0\LibraryWebsiteData.AssemblyInfo.cs
+C:\Users\Josh\source\LibraryWebsiteData\obj\Debug\netcoreapp2.0\LibraryWebsiteData.csprojAssemblyReference.cache
+C:\Users\Josh\source\LibraryWebsiteData\bin\Debug\netcoreapp2.0\LibraryWebsiteData.runtimeconfig.json
+C:\Users\Josh\source\LibraryWebsiteData\bin\Debug\netcoreapp2.0\LibraryWebsiteData.runtimeconfig.dev.json
+C:\Users\Josh\source\LibraryWebsiteData\bin\Debug\netcoreapp2.0\LibraryWebsiteData.pdb
+C:\Users\Josh\source\LibraryWebsiteData\obj\Debug\netcoreapp2.0\LibraryWebsiteData.dll
+C:\Users\Josh\source\LibraryWebsiteData\obj\Debug\netcoreapp2.0\LibraryWebsiteData.pdb
