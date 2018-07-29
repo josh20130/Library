@@ -1,0 +1,14 @@
+C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryWebsite.deps.json
+C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryWebsite.runtimeconfig.json
+C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryWebsite.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryWebsite.dll
+C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryWebsite.pdb
+C:\Users\Josh\source\repos\LibraryWebsite\obj\Debug\netcoreapp2.0\LibraryWebsite.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\LibraryWebsite\obj\Debug\netcoreapp2.0\LibraryWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\LibraryWebsite\obj\Debug\netcoreapp2.0\LibraryWebsite.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\LibraryWebsite\obj\Debug\netcoreapp2.0\LibraryWebsite.AssemblyInfo.cs
+C:\Users\Josh\source\repos\LibraryWebsite\obj\Debug\netcoreapp2.0\LibraryWebsite.dll
+C:\Users\Josh\source\repos\LibraryWebsite\obj\Debug\netcoreapp2.0\LibraryWebsite.pdb
+C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryWebsiteData.dll
+C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryWebsiteData.pdb
+C:\Users\Josh\source\repos\LibraryWebsite\obj\Debug\netcoreapp2.0\LibraryWebsite.csproj.CopyComplete
