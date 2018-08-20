@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\LibraryWebsiteData\LibraryWebsiteData.csproj" />
+    <ProjectReference Include="..\LibraryServices\LibraryServices.csproj" />
   </ItemGroup>
 
 </Project>

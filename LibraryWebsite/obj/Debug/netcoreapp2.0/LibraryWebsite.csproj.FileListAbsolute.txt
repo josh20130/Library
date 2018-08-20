@@ -12,3 +12,5 @@ C:\Users\Josh\source\repos\LibraryWebsite\obj\Debug\netcoreapp2.0\LibraryWebsite
 C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryWebsiteData.dll
 C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryWebsiteData.pdb
 C:\Users\Josh\source\repos\LibraryWebsite\obj\Debug\netcoreapp2.0\LibraryWebsite.csproj.CopyComplete
+C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\Josh\source\repos\LibraryWebsite\bin\Debug\netcoreapp2.0\LibraryServices.pdb
